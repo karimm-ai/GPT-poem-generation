@@ -1,0 +1,14 @@
+# env
+
+gpt_tuning/
+
+
+# models
+
+GPT*/
+
+
+# data
+
+*.csv
+*.zip
