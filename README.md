@@ -1,4 +1,4 @@
-**Dataset**
+## **Dataset**
 
 https://www.kaggle.com/datasets/archanghosh/robert-frost-collection/code
 
@@ -13,7 +13,7 @@ Small dataset with only 107 poems.
 
 ---
 
-**Models**
+## **Models**
 
 ### GPT-2 Small: Transformer Layers = 12
 Experimented with:
